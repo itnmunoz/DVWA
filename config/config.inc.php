@@ -18,7 +18,7 @@ $_DVWA = array();
 $_DVWA[ 'db_server' ]   = 'mysqldvwa';
 $_DVWA[ 'db_database' ] = 'dvwa';
 $_DVWA[ 'db_user' ]     = 'dvwa';
-$_DVWA[ 'db_password' ] = 'p@ssw0rd';
+$_DVWA[ 'db_password' ] = 'p@$$w0rd';
 $_DVWA[ 'db_port'] = '3306';
 
 # ReCAPTCHA settings
